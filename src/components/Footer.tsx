@@ -185,7 +185,16 @@ export default function Footer() {
           <div className="flex items-center space-x-2 text-gray-400 text-sm mt-4 md:mt-0">
             <span>Made with</span>
             <Heart className="h-4 w-4 text-red-500" />
-            <span>for special children</span>
+            <span>
+              for special children by{" "}
+              <a
+                href="https://etechdynamics.com"
+                target="_blank"
+                className="font-medium text-gray-300"
+              >
+                etechdynamics
+              </a>
+            </span>
           </div>
         </div>
       </div>
