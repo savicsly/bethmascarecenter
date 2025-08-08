@@ -134,11 +134,13 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-400 flex-shrink-0" />
-                <p className="text-gray-300 text-sm">+234 (0) 809 123 4567</p>
+                <p className="text-gray-300 text-sm">+234 (0) 904 646 7517</p>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-400 flex-shrink-0" />
-                <p className="text-gray-300 text-sm">info@bethmascare.ng</p>
+                <p className="text-gray-300 text-sm">
+                  info@bethmascarecenter.com.ng
+                </p>
               </div>
               <div className="flex items-start space-x-3">
                 <Clock className="h-5 w-5 text-blue-400 mt-0.5 flex-shrink-0" />

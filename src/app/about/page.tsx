@@ -120,7 +120,7 @@ export default function About() {
   return (
     <div className="font-inter">
       {/* Hero Section */}
-      <section className="relative py-20 bg-gradient-to-br from-blue-50 via-white to-emerald-50">
+      <section className="relative py-20 bg-gradient-to-br from-blue-50 via-white to-emerald-50 mt-14">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <motion.div

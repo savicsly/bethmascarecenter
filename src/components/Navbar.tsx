@@ -41,11 +41,11 @@ export default function Navbar() {
           <div className="flex items-center space-x-6">
             <div className="flex items-center space-x-2">
               <Phone className="h-4 w-4" />
-              <span>+234 (0) 809 123 4567</span>
+              <span>+234 (0) 904 646 7517</span>
             </div>
             <div className="flex items-center space-x-2">
               <Mail className="h-4 w-4" />
-              <span>info@bethmascare.ng</span>
+              <span>info@bethmascarecenter.com.ng</span>
             </div>
           </div>
           <div className="text-sm">

@@ -25,13 +25,16 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Phone",
-    details: ["+234 (0) 809 123 4567", "+234 (0) 703 456 7890"],
+    details: ["+234 (0) 904 646 7517"],
     color: "bg-blue-500",
   },
   {
     icon: Mail,
     title: "Email",
-    details: ["info@bethmascare.ng", "admissions@bethmascare.ng"],
+    details: [
+      "info@bethmascarecenter.com.ng",
+      "admissions@bethmascarecenter.com.ng",
+    ],
     color: "bg-emerald-500",
   },
   {
@@ -88,7 +91,7 @@ export default function Contact() {
   return (
     <div className="font-inter">
       {/* Hero Section */}
-      <section className="relative py-20 bg-gradient-to-br from-blue-50 via-white to-emerald-50">
+      <section className="relative py-20 bg-gradient-to-br from-blue-50 mt-14 via-white to-emerald-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <motion.div
@@ -120,7 +123,7 @@ export default function Contact() {
                     <Phone className="h-5 w-5 text-blue-600" />
                   </div>
                   <span className="text-gray-700">
-                    Call us directly at +234 (0) 809 123 4567
+                    Call us directly at +234 (0) 904 646 7517
                   </span>
                 </div>
               </div>
@@ -446,7 +449,7 @@ export default function Contact() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button className="bg-red-600 hover:bg-red-700 text-white px-8 py-3">
                 <Phone className="h-4 w-4 mr-2" />
-                Emergency: +234 (0) 818 000 0000
+                Emergency: +234 (0) 904 646 7517
               </Button>
               <Button
                 variant="outline"
