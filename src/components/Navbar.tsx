@@ -79,7 +79,7 @@ export default function Navbar() {
                   alt="Bethmas Care Center"
                   width={50}
                   height={50}
-                  className="h-12 w-auto"
+                  className="h-16 w-auto"
                 />
                 <div className="flex flex-col">
                   <span className="text-xl font-bold text-blue-900 font-poppins">
